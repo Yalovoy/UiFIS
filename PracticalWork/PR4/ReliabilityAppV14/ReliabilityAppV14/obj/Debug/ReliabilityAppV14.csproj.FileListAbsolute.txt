@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\ReliabilityAppV14\ReliabilityAppV14\bin\Debug\ReliabilityAppV14.exe.config
+C:\Users\HP\source\repos\ReliabilityAppV14\ReliabilityAppV14\bin\Debug\ReliabilityAppV14.exe
+C:\Users\HP\source\repos\ReliabilityAppV14\ReliabilityAppV14\bin\Debug\ReliabilityAppV14.pdb
+C:\Users\HP\source\repos\ReliabilityAppV14\ReliabilityAppV14\obj\Debug\ReliabilityAppV14.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ReliabilityAppV14\ReliabilityAppV14\obj\Debug\ReliabilityAppV14.Form1.resources
+C:\Users\HP\source\repos\ReliabilityAppV14\ReliabilityAppV14\obj\Debug\ReliabilityAppV14.Properties.Resources.resources
+C:\Users\HP\source\repos\ReliabilityAppV14\ReliabilityAppV14\obj\Debug\ReliabilityAppV14.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ReliabilityAppV14\ReliabilityAppV14\obj\Debug\ReliabilityAppV14.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ReliabilityAppV14\ReliabilityAppV14\obj\Debug\ReliabilityAppV14.exe
+C:\Users\HP\source\repos\ReliabilityAppV14\ReliabilityAppV14\obj\Debug\ReliabilityAppV14.pdb
