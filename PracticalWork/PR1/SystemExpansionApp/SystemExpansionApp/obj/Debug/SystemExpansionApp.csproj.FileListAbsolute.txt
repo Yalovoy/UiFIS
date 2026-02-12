@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\SystemExpansionApp\SystemExpansionApp\bin\Debug\SystemExpansionApp.exe.config
+C:\Users\HP\source\repos\SystemExpansionApp\SystemExpansionApp\bin\Debug\SystemExpansionApp.exe
+C:\Users\HP\source\repos\SystemExpansionApp\SystemExpansionApp\bin\Debug\SystemExpansionApp.pdb
+C:\Users\HP\source\repos\SystemExpansionApp\SystemExpansionApp\obj\Debug\SystemExpansionApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SystemExpansionApp\SystemExpansionApp\obj\Debug\SystemExpansionApp.MainForm.resources
+C:\Users\HP\source\repos\SystemExpansionApp\SystemExpansionApp\obj\Debug\SystemExpansionApp.Properties.Resources.resources
+C:\Users\HP\source\repos\SystemExpansionApp\SystemExpansionApp\obj\Debug\SystemExpansionApp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\SystemExpansionApp\SystemExpansionApp\obj\Debug\SystemExpansionApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SystemExpansionApp\SystemExpansionApp\obj\Debug\SystemExpansionApp.exe
+C:\Users\HP\source\repos\SystemExpansionApp\SystemExpansionApp\obj\Debug\SystemExpansionApp.pdb
