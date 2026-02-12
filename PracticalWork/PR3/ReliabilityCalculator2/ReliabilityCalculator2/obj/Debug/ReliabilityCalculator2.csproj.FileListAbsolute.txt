@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\ReliabilityCalculator2\ReliabilityCalculator2\obj\Debug\ReliabilityCalculator2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ReliabilityCalculator2\ReliabilityCalculator2\obj\Debug\ReliabilityCalculatorV7.Form1.resources
+C:\Users\HP\source\repos\ReliabilityCalculator2\ReliabilityCalculator2\obj\Debug\ReliabilityCalculator2.Properties.Resources.resources
+C:\Users\HP\source\repos\ReliabilityCalculator2\ReliabilityCalculator2\obj\Debug\ReliabilityCalculator2.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ReliabilityCalculator2\ReliabilityCalculator2\obj\Debug\ReliabilityCalculator2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ReliabilityCalculator2\ReliabilityCalculator2\bin\Debug\ReliabilityCalculator2.exe.config
+C:\Users\HP\source\repos\ReliabilityCalculator2\ReliabilityCalculator2\bin\Debug\ReliabilityCalculator2.exe
+C:\Users\HP\source\repos\ReliabilityCalculator2\ReliabilityCalculator2\bin\Debug\ReliabilityCalculator2.pdb
+C:\Users\HP\source\repos\ReliabilityCalculator2\ReliabilityCalculator2\obj\Debug\ReliabilityCalculator2.exe
+C:\Users\HP\source\repos\ReliabilityCalculator2\ReliabilityCalculator2\obj\Debug\ReliabilityCalculator2.pdb
