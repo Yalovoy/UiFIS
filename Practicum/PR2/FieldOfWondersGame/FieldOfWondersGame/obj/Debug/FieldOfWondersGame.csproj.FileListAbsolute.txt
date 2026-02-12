@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\FieldOfWondersGame\FieldOfWondersGame\bin\Debug\FieldOfWondersGame.exe.config
+C:\Users\HP\source\repos\FieldOfWondersGame\FieldOfWondersGame\bin\Debug\FieldOfWondersGame.exe
+C:\Users\HP\source\repos\FieldOfWondersGame\FieldOfWondersGame\bin\Debug\FieldOfWondersGame.pdb
+C:\Users\HP\source\repos\FieldOfWondersGame\FieldOfWondersGame\obj\Debug\FieldOfWondersGame.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FieldOfWondersGame\FieldOfWondersGame\obj\Debug\FieldOfWondersGame.Properties.Resources.resources
+C:\Users\HP\source\repos\FieldOfWondersGame\FieldOfWondersGame\obj\Debug\FieldOfWondersGame.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\FieldOfWondersGame\FieldOfWondersGame\obj\Debug\FieldOfWondersGame.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FieldOfWondersGame\FieldOfWondersGame\obj\Debug\FieldOfWondersGame.exe
+C:\Users\HP\source\repos\FieldOfWondersGame\FieldOfWondersGame\obj\Debug\FieldOfWondersGame.pdb
+C:\Users\HP\source\repos\FieldOfWondersGame\FieldOfWondersGame\obj\Debug\FieldOfWondersGame.Form1.resources
