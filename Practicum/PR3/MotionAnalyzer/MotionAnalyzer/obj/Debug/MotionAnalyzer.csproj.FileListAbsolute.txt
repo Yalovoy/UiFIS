@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\MotionAnalyzer\MotionAnalyzer\bin\Debug\MotionAnalyzer.exe.config
+C:\Users\HP\source\repos\MotionAnalyzer\MotionAnalyzer\bin\Debug\MotionAnalyzer.exe
+C:\Users\HP\source\repos\MotionAnalyzer\MotionAnalyzer\bin\Debug\MotionAnalyzer.pdb
+C:\Users\HP\source\repos\MotionAnalyzer\MotionAnalyzer\obj\Debug\MotionAnalyzer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MotionAnalyzer\MotionAnalyzer\obj\Debug\MotionAnalyzer.Form1.resources
+C:\Users\HP\source\repos\MotionAnalyzer\MotionAnalyzer\obj\Debug\MotionAnalyzer.Properties.Resources.resources
+C:\Users\HP\source\repos\MotionAnalyzer\MotionAnalyzer\obj\Debug\MotionAnalyzer.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\MotionAnalyzer\MotionAnalyzer\obj\Debug\MotionAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MotionAnalyzer\MotionAnalyzer\obj\Debug\MotionAnalyzer.exe
+C:\Users\HP\source\repos\MotionAnalyzer\MotionAnalyzer\obj\Debug\MotionAnalyzer.pdb
