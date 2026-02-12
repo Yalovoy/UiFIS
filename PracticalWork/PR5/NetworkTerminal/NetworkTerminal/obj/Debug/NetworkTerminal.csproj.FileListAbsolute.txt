@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\NetworkTerminal\NetworkTerminal\bin\Debug\NetworkTerminal.exe.config
+C:\Users\HP\source\repos\NetworkTerminal\NetworkTerminal\bin\Debug\NetworkTerminal.exe
+C:\Users\HP\source\repos\NetworkTerminal\NetworkTerminal\bin\Debug\NetworkTerminal.pdb
+C:\Users\HP\source\repos\NetworkTerminal\NetworkTerminal\obj\Debug\NetworkTerminal.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NetworkTerminal\NetworkTerminal\obj\Debug\NetworkTerminal.Form1.resources
+C:\Users\HP\source\repos\NetworkTerminal\NetworkTerminal\obj\Debug\NetworkTerminal.Properties.Resources.resources
+C:\Users\HP\source\repos\NetworkTerminal\NetworkTerminal\obj\Debug\NetworkTerminal.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\NetworkTerminal\NetworkTerminal\obj\Debug\NetworkTerminal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NetworkTerminal\NetworkTerminal\obj\Debug\NetworkTerminal.exe
+C:\Users\HP\source\repos\NetworkTerminal\NetworkTerminal\obj\Debug\NetworkTerminal.pdb
