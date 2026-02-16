@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe.config
+C:\Users\HP\source\repos\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe
+C:\Users\HP\source\repos\SolarSystem\SolarSystem\bin\Debug\SolarSystem.pdb
+C:\Users\HP\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem.Properties.Resources.resources
+C:\Users\HP\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem.exe
+C:\Users\HP\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem.pdb
+C:\Users\HP\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem.Form1.resources
