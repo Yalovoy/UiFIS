@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\ConfidencePropability\ConfidencePropability\bin\Debug\ConfidencePropability.exe.config
+C:\Users\HP\source\repos\ConfidencePropability\ConfidencePropability\bin\Debug\ConfidencePropability.exe
+C:\Users\HP\source\repos\ConfidencePropability\ConfidencePropability\bin\Debug\ConfidencePropability.pdb
+C:\Users\HP\source\repos\ConfidencePropability\ConfidencePropability\obj\Debug\ConfidencePropability.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConfidencePropability\ConfidencePropability\obj\Debug\ConfidenceProbability.Form1.resources
+C:\Users\HP\source\repos\ConfidencePropability\ConfidencePropability\obj\Debug\ConfidencePropability.Properties.Resources.resources
+C:\Users\HP\source\repos\ConfidencePropability\ConfidencePropability\obj\Debug\ConfidencePropability.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ConfidencePropability\ConfidencePropability\obj\Debug\ConfidencePropability.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConfidencePropability\ConfidencePropability\obj\Debug\ConfidencePropability.exe
+C:\Users\HP\source\repos\ConfidencePropability\ConfidencePropability\obj\Debug\ConfidencePropability.pdb
