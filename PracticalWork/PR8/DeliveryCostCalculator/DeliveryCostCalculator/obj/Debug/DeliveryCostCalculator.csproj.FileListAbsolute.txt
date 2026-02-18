@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\bin\Debug\DeliveryCostCalculator.exe.config
+C:\Users\HP\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\bin\Debug\DeliveryCostCalculator.exe
+C:\Users\HP\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\bin\Debug\DeliveryCostCalculator.pdb
+C:\Users\HP\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\DeliveryCostCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\DeliveryCostCalculator.Form1.resources
+C:\Users\HP\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\DeliveryCostCalculator.Properties.Resources.resources
+C:\Users\HP\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\DeliveryCostCalculator.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\DeliveryCostCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\DeliveryCostCalculator.exe
+C:\Users\HP\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\DeliveryCostCalculator.pdb
