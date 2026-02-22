@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\GuessStandardApp\GuessStandardApp\bin\Debug\GuessStandardApp.exe.config
+C:\Users\HP\source\repos\GuessStandardApp\GuessStandardApp\bin\Debug\GuessStandardApp.exe
+C:\Users\HP\source\repos\GuessStandardApp\GuessStandardApp\bin\Debug\GuessStandardApp.pdb
+C:\Users\HP\source\repos\GuessStandardApp\GuessStandardApp\obj\Debug\GuessStandardApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\GuessStandardApp\GuessStandardApp\obj\Debug\GuessStandardApp.Properties.Resources.resources
+C:\Users\HP\source\repos\GuessStandardApp\GuessStandardApp\obj\Debug\GuessStandardApp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\GuessStandardApp\GuessStandardApp\obj\Debug\GuessStandardApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GuessStandardApp\GuessStandardApp\obj\Debug\GuessStandardApp.exe
+C:\Users\HP\source\repos\GuessStandardApp\GuessStandardApp\obj\Debug\GuessStandardApp.pdb
+C:\Users\HP\source\repos\GuessStandardApp\GuessStandardApp\obj\Debug\GuessStandardApp.Form1.resources
